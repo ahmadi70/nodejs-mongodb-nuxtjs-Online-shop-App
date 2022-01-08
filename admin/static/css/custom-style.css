@@ -1,0 +1,26 @@
+.jumbotron {
+    padding: 1rem 2rem !important;
+}
+/* Modal */
+.modal-backdrop {
+    z-index: -1 !important;
+}
+
+/* form */
+.custom-choosefile-button{
+    border: 2px dashed #ccc;
+    width: 80px;
+    height: 90px;
+    cursor: pointer;
+    line-height: 110px;
+    text-align: center;
+  }
+  .custom-choosefile-button input{
+    display: none;
+  }
+.custom-btn-color {
+   background: linear-gradient(to bottom,#f7dfa5,#f0c14b);   
+}
+.custom-btn {
+    cursor: pointer;
+}

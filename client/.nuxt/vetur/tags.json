@@ -1,0 +1,32 @@
+{
+  "DefaultHeader": {
+    "description": "Auto imported from components/DefaultHeader.vue"
+  },
+  "LazyDefaultHeader": {
+    "description": "Auto imported from components/DefaultHeader.vue"
+  },
+  "FeatureProduct": {
+    "description": "Auto imported from components/FeatureProduct.vue"
+  },
+  "LazyFeatureProduct": {
+    "description": "Auto imported from components/FeatureProduct.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "ReviewSection": {
+    "description": "Auto imported from components/ReviewSection.vue"
+  },
+  "LazyReviewSection": {
+    "description": "Auto imported from components/ReviewSection.vue"
+  }
+}

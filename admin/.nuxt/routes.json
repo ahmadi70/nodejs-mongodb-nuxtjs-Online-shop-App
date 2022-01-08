@@ -1,0 +1,44 @@
+[
+  {
+    "name": "categories",
+    "path": "/categories",
+    "component": "/Volumes/E/Vue/Projects/027 NuxtJS Auth (back-end front-end)/admin/pages/categories/index.vue",
+    "chunkName": "pages/categories/index",
+    "_name": "_159cdccc"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "/Volumes/E/Vue/Projects/027 NuxtJS Auth (back-end front-end)/admin/pages/products/index.vue",
+    "chunkName": "pages/products/index",
+    "_name": "_4d9b1fa2"
+  },
+  {
+    "name": "categories-all",
+    "path": "/categories/all",
+    "component": "/Volumes/E/Vue/Projects/027 NuxtJS Auth (back-end front-end)/admin/pages/categories/all.vue",
+    "chunkName": "pages/categories/all",
+    "_name": "_4ab2222e"
+  },
+  {
+    "name": "products-report",
+    "path": "/products/report",
+    "component": "/Volumes/E/Vue/Projects/027 NuxtJS Auth (back-end front-end)/admin/pages/products/report.vue",
+    "chunkName": "pages/products/report",
+    "_name": "_a20210d8"
+  },
+  {
+    "name": "products-id",
+    "path": "/products/:id",
+    "component": "/Volumes/E/Vue/Projects/027 NuxtJS Auth (back-end front-end)/admin/pages/products/_id.vue",
+    "chunkName": "pages/products/_id",
+    "_name": "_a15ebaec"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Volumes/E/Vue/Projects/027 NuxtJS Auth (back-end front-end)/admin/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_13dc8ae7"
+  }
+]
